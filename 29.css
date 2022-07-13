@@ -1,0 +1,15 @@
+<html>
+    <head>
+        <title>inline style sheet</title>
+        <style>
+    <body>{background color:red;
+          }
+    h1{
+        color:blue;
+        text-align: left;
+    }
+</style></head>
+    <body>
+    <h1>example forenternal css</h1>
+    </body>
+</html>
